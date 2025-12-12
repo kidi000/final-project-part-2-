@@ -1,0 +1,4 @@
+theia@theia-kgebre25:/home/project/mcino-Introduction-to-Git-and-GitHub$ git branch -vv
+* bug-fix-revert 8e3dd73 [origin/bug-fix-revert] Revert "updating footer"
+  bug-fix-typo   31e0be8 [origin/bug-fix-typo] updating footer
+  main           31e0be8 [origin/main: ahead 1] updating footer
